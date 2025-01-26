@@ -1,0 +1,23 @@
+.container{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+
+}
+.line{
+    background-color: orange;
+    width: 60%;
+    height: 15px;
+    border-radius: 10px;
+
+}
